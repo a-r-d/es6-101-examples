@@ -1,0 +1,23 @@
+{
+  "name": "es6-101-examples",
+  "version": "1.0.0",
+  "description": "ES6 101 examples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-r-d/es6-101-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-r-d/es6-101-examples/issues"
+  },
+  "homepage": "https://github.com/a-r-d/es6-101-examples#readme",
+  "dependencies": {
+    "pdf-to-png": "^1.0.3",
+    "yargs": "^5.0.0"
+  }
+}
