@@ -5,3 +5,6 @@ node index.js -i 04-destructuring.md
 node index.js -i 05-default-params.md
 node index.js -i 06-object-property-shorthand.md
 node index.js -i 07-template-literals.md
+node index.js -i 08-classes.md
+node index.js -i 09-maps-and-sets.md
+node index.js -i 10-new-methods.md
