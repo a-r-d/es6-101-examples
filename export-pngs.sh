@@ -8,3 +8,4 @@ node index.js -i 07-template-literals.md
 node index.js -i 08-classes.md
 node index.js -i 09-maps-and-sets.md
 node index.js -i 10-new-methods.md
+node index.js -i 11-promises.md
